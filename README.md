@@ -1,11 +1,14 @@
 # Feature-Engineering-and-ML-Pipeline
 Context
+
 The bank noticed a decrease in its credit card user numbers. Due to the usage of credit cards being a big income for the bank; the bank wants to build a model to predict which type of customers might not use or stop using their credit cards
 
 Objective
+
 To predict which type of customers might not use or stop using their credit cards and to examine the features that can lead to either the increase or decrease in credit card usage.
 
 Data Description
+
 • CLIENTNUM: Client number. Unique identifier for the customer holding the account
 • Attrition_Flag: Internal event (customer activity) variable - if the account is closed then "Attrited Customer" else "Existing Customer" (target variable)
 • Customer_Age: Age in Years
